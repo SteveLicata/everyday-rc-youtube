@@ -1,0 +1,21 @@
+.navimg {
+  height: 50px;
+  width: 50px;
+}
+
+.stats {
+  text-align: center;
+}
+
+.carimg {
+  height: 100vh;
+  width: 100vw;
+}
+
+.videos {
+  text-align: center;
+}
+
+#vidnum {
+  color: black;
+}
