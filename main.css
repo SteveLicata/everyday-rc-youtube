@@ -13,14 +13,23 @@
 
 .about {
   text-align: center;
+  /*background-color: #34495E;*/
+  width: 500px;
+  height: 500px;
 }
 
-#vidnum {
-  color: black;
+.rcimg, .youtubeimg {
+  width: 500px;
+  height: 500px;
+}
+
+#viewnum, #subnum {
+  color: red;
+  font-weight: bold;
 }
 
 body {
-  background-color: #F8FAE4;
+  background-color: #5D6D7E;
 }
 
 h1 {
