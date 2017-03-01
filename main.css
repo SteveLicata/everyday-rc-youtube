@@ -19,13 +19,22 @@
 }
 
 .rcimg, .youtubeimg {
-  width: 500px;
-  height: 500px;
+  width: 425px;
+  height: 450px;
 }
 
 .container {
   /*background-color: #5D6D7E;*/
   background-color: #1a1a1a;
+}
+
+.topimg {
+  width: 100%;
+  height: 500px;
+}
+
+.topslogan {
+  padding-bottom: 100%;
 }
 
 #viewnum, #subnum {
