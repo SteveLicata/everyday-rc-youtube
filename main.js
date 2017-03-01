@@ -1,5 +1,7 @@
 $(document).ready(function(){
 
+
+
   // materialize collapsable nav
   $(".button-collapse").sideNav();
 
@@ -8,6 +10,8 @@ $(document).ready(function(){
     full_width: true,
     interval: 3000
   });
+
+
 
   //array of images for top of page
   var imageArray = [
@@ -66,8 +70,23 @@ $(document).ready(function(){
     }, 1000);
   }; //end if statement
 
-  // modal image
-  // "images/16789056_1848179648786621_4876751690331586560_n.jpg",
+
+
+  //modal pop up
+  var modal = document.querySelector('#modal');
+
+  function openModal() {
+    modal.style.display = "block";
+  };
+
+  setTimeout(openModal, 5000);
+
+  //modal close button
+  var modalCloseBtn = document.querySelector('#closebtn');
+
+  modalCloseBtn.addEventListener('click', function() {
+    modal.style.display = "none";
+  });
 
 
 });
