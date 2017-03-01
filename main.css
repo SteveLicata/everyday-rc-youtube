@@ -24,7 +24,8 @@
 }
 
 .container {
-  background-color: rgba(5, 5, 1000, 0.5);
+  background-color: #5D6D7E;
+
 }
 
 #viewnum, #subnum {
@@ -33,7 +34,7 @@
 }
 
 body {
-  background-color: #5D6D7E;
+  background-color: rgba(5, 5, 20, 0.8);
 }
 
 h1 {
