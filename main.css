@@ -24,8 +24,8 @@
 }
 
 .container {
-  background-color: #5D6D7E;
-
+  /*background-color: #5D6D7E;*/
+  background-color: #1a1a1a;
 }
 
 #viewnum, #subnum {
@@ -34,13 +34,23 @@
 }
 
 body {
-  background-color: rgba(5, 5, 20, 0.8);
+  /*background-color: rgba(5, 5, 20, 0.8);*/
+  background-color: black;
 }
 
-h1 {
-  font-family: 'Roboto Slab', serif;
+h1, h4 {
+  /*font-family: 'Roboto Slab', serif;*/
+  font-family: CaptureIt;
+  color: white;
 }
 
 h3, h5 {
   font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+/*custom font*/
+@font-face {
+  font-family: CaptureIt;
+  src: url('http://www.dafont.com/capture-it.font');
 }
