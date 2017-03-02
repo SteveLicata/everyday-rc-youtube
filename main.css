@@ -80,22 +80,14 @@ h3, h5 {
   width: 90%;
   height: 90%;
   overflow: auto;
+  background-color: white;
+  width: 60%;
 }
 
 .modaltext {
   color: red;
   text-align: center;
 }
-
-/*#modal-content {
-  background-color: black;
-  color: white;
-  margin: 10% auto;
-  padding: 5px;
-  border: 3px solid gray;
-  width: 50%;
-  height: 20px;
-}*/
 
 #closebtn {
   background-color: black;
