@@ -1,6 +1,5 @@
 $(document).ready(function(){
-
-
+  console.log("DOM loaded");
 
   // materialize collapsable nav
   $(".button-collapse").sideNav();
@@ -10,7 +9,6 @@ $(document).ready(function(){
     full_width: true,
     interval: 3000
   });
-
 
 
   //array of images for top of page
@@ -71,7 +69,6 @@ $(document).ready(function(){
   }; //end if statement
 
 
-
   //modal pop up
   var modal = document.querySelector('#modal');
 
@@ -89,4 +86,4 @@ $(document).ready(function(){
   });
 
 
-});
+});//end document ready

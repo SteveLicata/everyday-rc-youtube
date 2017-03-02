@@ -71,17 +71,17 @@ h3, h5 {
 #modal {
   display: none;
   position: fixed;
-  margin: auto;
+  margin: 0 auto;
   z-index: 1;
   left: 0;
   top: 0;
   bottom: 0;
   right: 0;
-  width: 90%;
-  height: 90%;
   overflow: auto;
   background-color: white;
   width: 60%;
+  height: 80%;
+  text-align: center;
 }
 
 .modaltext {
