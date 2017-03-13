@@ -29,6 +29,16 @@
   background-color: #1a1a1a;
 }
 
+.maxampimg {
+  width: 100%;
+}
+
+.maxamptext {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
+
 .slider {
   z-index: 0;
 }
@@ -80,14 +90,19 @@ h3, h5 {
   right: 0;
   overflow: auto;
   background-color: white;
-  width: 60%;
-  height: 80%;
+  width: 50%;
+  height: 90%;
   text-align: center;
 }
 
 .modaltext {
   color: red;
   text-align: center;
+}
+
+.modalimg {
+  width: 75%;
+  height: 83%;
 }
 
 #closebtn {
