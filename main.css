@@ -12,8 +12,6 @@
 }
 
 .about {
-  /*text-align: center;*/
-  /*background-color: #34495E;*/
   width: 500px;
   height: 500px;
   margin-top: -20px;
@@ -25,7 +23,6 @@
 }
 
 .container {
-  /*background-color: #5D6D7E;*/
   background-color: #1a1a1a;
 }
 
@@ -58,12 +55,10 @@
 }
 
 body {
-  /*background-color: rgba(5, 5, 20, 0.8);*/
   background-color: black;
 }
 
 h1, h4 {
-  /*font-family: 'Roboto Slab', serif;*/
   font-family: CaptureIt;
   color: white;
 }
