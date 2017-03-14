@@ -3,11 +3,7 @@
   width: 50px;
 }
 
-.stats {
-  text-align: center;
-}
-
-.videos {
+.stats, .videos, .welcome {
   text-align: center;
 }
 
@@ -47,10 +43,6 @@
 .subscribe{
   text-align: center;
   margin-top: -50px;
-}
-
-.welcome {
-  text-align: center;
 }
 
 #topimg {

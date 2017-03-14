@@ -69,16 +69,13 @@ $(document).ready(function(){
 
   //modal pop up
   var modal = document.querySelector('#modal');
-
   function openModal() {
     modal.style.display = "block";
   };
-
   setTimeout(openModal, 5000);
 
   //modal close button
   var modalCloseBtn = document.querySelector('#closebtn');
-
   modalCloseBtn.addEventListener('click', function() {
     modal.style.display = "none";
   });
