@@ -7,7 +7,7 @@ $(document).ready(function(){
   // materialize slider
   $('.slider').slider({
     full_width: true,
-    interval: 3000
+    interval: 5000
   });
 
   var imageArray = [

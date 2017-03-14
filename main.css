@@ -40,13 +40,22 @@
   z-index: 0;
 }
 
+.topslogan {
+  padding-bottom: 100%;
+}
+
+.subscribe{
+  text-align: center;
+  margin-top: -50px;
+}
+
+.welcome {
+  text-align: center;
+}
+
 #topimg {
   width: 75%;
   height: 500px;
-}
-
-.topslogan {
-  padding-bottom: 100%;
 }
 
 #viewnum, #subnum {
