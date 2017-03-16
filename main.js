@@ -72,7 +72,7 @@ $(document).ready(function(){
   function openModal() {
     modal.style.display = "block";
   };
-  setTimeout(openModal, 5000);
+  setTimeout(openModal, 10000);
 
   //modal close button
   var modalCloseBtn = document.querySelector('#closebtn');
