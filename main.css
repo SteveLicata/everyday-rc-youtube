@@ -72,7 +72,7 @@ h3, h5 {
 /*custom font*/
 @font-face {
   font-family: CaptureIt;
-  src: url('http://www.dafont.com/capture-it.font');
+  src: url('https://www.dafont.com/capture-it.font');
 }
 
 #modal {
