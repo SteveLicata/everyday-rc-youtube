@@ -71,8 +71,9 @@ h3, h5 {
 
 /*custom font*/
 @font-face {
-  font-family: CaptureIt;
-  src: url('https://www.dafont.com/capture-it.font');
+  font-family: 'CaptureIt';
+  src: url('CaptureIt.ttf');
+  /*src: url('https://www.dafont.com/capture-it.font');*/
 }
 
 #modal {
