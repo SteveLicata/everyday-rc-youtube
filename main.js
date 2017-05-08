@@ -80,5 +80,11 @@ $(document).ready(function(){
     modal.style.display = "none";
   });
 
+  //modal x button
+  var modalXButton = document.querySelector('#close-btn');
+  modalXButton.addEventListener('click', function() {
+    modal.style.display = "none";
+  });
+
 
 });//end document ready

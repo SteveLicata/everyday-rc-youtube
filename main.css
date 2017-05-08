@@ -88,7 +88,7 @@ h3, h5 {
   overflow: auto;
   background-color: white;
   width: 50%;
-  height: 90%;
+  height: 75%;
   text-align: center;
 }
 
@@ -113,4 +113,14 @@ h3, h5 {
 
 #closebtn:hover {
   cursor: pointer;
+}
+
+#close-btn {
+  position: absolute;
+  width: 20px;
+  height: 18px;
+  top: 0px;
+  right: 0px;
+  cursor: pointer;
+  z-index:220;
 }
