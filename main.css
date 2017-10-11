@@ -69,6 +69,14 @@ h3, h5 {
   color: white;
 }
 
+a {
+  color: lightgray;
+}
+
+a:hover {
+  color: darkgray;
+}
+
 /*custom font*/
 @font-face {
   font-family: 'CaptureIt';
