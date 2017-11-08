@@ -18,6 +18,11 @@
   height: 450px;
 }
 
+.merchimage {
+  width: 75px;
+  height: 75px;
+}
+
 .container {
   background-color: #1a1a1a;
 }
