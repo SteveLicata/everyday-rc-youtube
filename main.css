@@ -22,11 +22,11 @@
   background-color: #1a1a1a;
 }
 
-.maxampimg {
+.maxampimg, .cowrcimg {
   width: 100%;
 }
 
-.maxamptext {
+.maxamptext, .cowrctext {
   color: white;
   text-align: center;
   font-size: 25px;
