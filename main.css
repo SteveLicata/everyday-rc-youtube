@@ -1,6 +1,7 @@
 .navimg {
   height: 50px;
   width: 50px;
+  padding-top: 5px;
 }
 
 .stats, .videos, .welcome {
