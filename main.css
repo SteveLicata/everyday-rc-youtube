@@ -24,6 +24,10 @@
   height: 75px;
 }
 
+.navlinks {
+  color: blue;
+}
+
 .container {
   background-color: #1a1a1a;
 }
