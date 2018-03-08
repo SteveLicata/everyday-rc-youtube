@@ -9,10 +9,18 @@
   text-align: center;
 }
 
-.about {
+.aboutimg {
   width: 500px;
   height: 500px;
   margin-top: -20px;
+  margin-bottom: -20px;
+}
+
+.abouttxt {
+  width: 500px;
+  height: 500px;
+  margin-top: -20px;
+  margin-bottom: -75px;
 }
 
 .rcimg, .youtubeimg {
