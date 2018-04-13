@@ -66,11 +66,11 @@
   margin-top: -50px;
 }
 
-.merchlink, .maxampslink, .morevideos, .cowrclink {
+.merchlink, .maxampslink, .morevideos, .cowrclink, .devlink {
   color: blue;
 }
 
-.merchlink:hover, .maxampslink:hover, .morevideos:hover, .cowrclink:hover {
+.merchlink:hover, .maxampslink:hover, .morevideos:hover, .cowrclink:hover, .devlink:hover {
   color: darkgray;
 }
 
