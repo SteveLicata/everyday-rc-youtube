@@ -66,6 +66,15 @@
   margin-top: -50px;
 }
 
+.merchlink, .maxampslink, .morevideos, .cowrclink {
+  color: blue;
+}
+
+.merchlink:hover, .maxampslink:hover, .morevideos:hover, .cowrclink:hover {
+  color: darkgray;
+}
+
+
 #topimg {
   width: 75%;
   height: 500px;
